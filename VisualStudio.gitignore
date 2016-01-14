@@ -231,3 +231,10 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+# Omega software
+Install/
+RhetosServerCommandsTrace.xml
+FileVersions.txt
+*.zip
+NuGet.exe
