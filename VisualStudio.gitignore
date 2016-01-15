@@ -233,7 +233,7 @@ _Pvt_Extensions
 .fake/
 
 # Omega software
-Install/
+/Install/
 RhetosServerCommandsTrace.xml
 FileVersions.txt
 *.zip
